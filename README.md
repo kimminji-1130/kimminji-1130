@@ -1,4 +1,4 @@
-# 컴공재학중
+
 
 <a href=#><img src="contributions.svg"></a>
 
@@ -6,5 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminji-1130&layout=compact)](https://github.com/kimminji-1130/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminji-1130&show_icons=true&theme=tokyonight)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminji-1130&show_icons=true&theme=tokyonight)
 
