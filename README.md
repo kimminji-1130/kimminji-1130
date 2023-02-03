@@ -3,3 +3,4 @@
 
 # hi👋 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminji-1130&show_icons=true&theme=midnight-purple)
