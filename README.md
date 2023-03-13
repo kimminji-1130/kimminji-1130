@@ -9,3 +9,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminji-1130&layout=compact&theme=midnight-purple)
 
+.
