@@ -1,8 +1,7 @@
 <p align="center">
 Hello</p>
 
-<p align="center">내 페이지에 오신 것을 환영합니다!<br/>
-저는 클라우드 엔지니어를 희망하는 김민지입니다.</p>
+<p align="center">내 페이지에 오신 것을 환영합니다!<br/></p>
 
 <h2 align="center"> Blog</h2>
 <p align="center">https://velog.io/@alswl1130/posts</p>
